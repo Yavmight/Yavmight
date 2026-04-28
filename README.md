@@ -2,4 +2,4 @@
 
 * 🎓 Iam a Junior Computer Engineering Student at Istanbul Arel University
 * 💻 Currently focused on Web Development
-* 🚀 Just Exploring modern tools and building rojects
+* 🚀 Just Exploring modern tools and building projects
